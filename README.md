@@ -16,6 +16,14 @@ source avd-peco/bin/avd_peco.sh
 avd_peco 
 ```
 
+# Use Proxy
+
+You can pass the argument.
+
+```sh
+avd_peco "-http-proxy http://192.168.121.241:8888"
+```
+
 # Lincense
 
 ```
