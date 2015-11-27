@@ -21,7 +21,7 @@ avd_peco
 You can pass the argument.
 
 ```sh
-avd_peco "-http-proxy http://192.168.121.241:8888"
+avd_peco "-http-proxy http://192.168.1.1:8888"
 ```
 
 # Lincense
